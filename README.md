@@ -4,25 +4,20 @@
 ## The Project
 -------------------------------------------
 
-An artificial intelligence implementation in drone technology to create an autonomous lawn care and maintenace assistant system to replace rudementary underground sprinkler systems for a more conservative and modernized system that saves the user money, power, and water. 
+An artificial intelligence implementation in drone technology to create an autonomous lawn care and maintenance assistant system to replace underground sprinkler systems for a more conservative and modernized system that saves the user money, power, and water.
 
 ## Features
 --------------------------------------------
 
-    - Autonmous Drone that manages and maintains assigned lawns
-    
+    - Autonomous Drone that manages and maintains assigned lawns
+
     - Innovative computer vision for working specifically in low-light conditions
-    
+
     - Weather API integration for real time schedule adjustment and determining water requirements for a healthy lawn
-    
-    - A mobile application for viewing water and power consumption while also serving as an emergency manual override controller and notification center for relavent real time lawn information.
-    
-    - A web application that informs the user of relative metrics concerning their savings over time due to the implementation of the autonomous lawn care system. 
 
-## Installation Instructions
-----------------------------------------------
+    - A mobile application for viewing water and power consumption while also serving as an emergency manual override controller and notification center for real time lawn information.
 
-
+    - A web application that informs the user of relative metrics concerning their savings over time due to the implementation of the autonomous lawn care system.
 
 
 ## Components and technologies used:
@@ -30,19 +25,21 @@ An artificial intelligence implementation in drone technology to create an auton
 
 Components:
 
+    Mobile Application, Web Application, A.I. Module, Flight Software
 
-Technologies: 
+
+Technologies:
 
     Tensorflow, Artificial intelligence, React, React Native, Javascript,  CSS, HTML
 
 ## Source Code
 ------------------------------------------------------------------------------------------------------------------
 
-All source code is available on our github repository: 
+All source code is available on our github repository:
 
     https://github.com/zance1054/SprinklerDroneProject
 
-Our code is seperated into folders corresponding directly to the components of the project specified above.
+Our code is separated into folders corresponding directly to the components of the project specified above.
 
 ## Contributors
 --------------------------
@@ -58,7 +55,6 @@ Our code is seperated into folders corresponding directly to the components of t
 ## Support
 -------------------
 
-
-
-
-
+    - alecfielding95@gmail.com
+    - keyevan@gmail.com
+    - kimwilsonngo@gmail.com
