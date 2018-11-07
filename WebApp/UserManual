@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <meta charset = "utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>User Manual</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+        </head>
+    <body>
+        <a href="screenshots/droneum.jpg"> <img alt="A screenshot showing CSS Quick Edit" src="screenshots/droneum.jpg" /> </a>
+        <h1>Sprinkler Drone User Manual </h1>
+            
+
+        <h2>Water Dragon Mk. l </h2>
+                    <hr style = "border: 8px solid black;"/>
+    </body>
+    
+    
+    <div class = "about">
+        <h3>What is it about?</h3>
+        <hr style = "border: 0.5px solid black;"/>
+        <font color = "red"></font>
+        
+        <p style = "color:black">
+            The Water Dragon Mk. l is a more efficient way to water your lawn. <u><em>No underground installation required.</em></u> All automation and durable way to water your lawn when costs get to high.  
+        </p>
+    </div>
+    
+    
+    <div class = "getting started" > 
+        <h3>Getting Started </h3>
+            <hr style = "border: 0.5px solid black;"/> 
+    </div>
+    
+    
+    <div class = "extras" >
+        <h3>Extras</h3>
+        
+        <p> 
+            For information about product and help, you can use our layout tabs on the to left of the Web Application, bottom Mobile Application). There are <strong>FAQ, Contuct Us, and Product Features</strong>.
+        </p>
+            <a href="screenshots/umpic%20-%20Copy.png"> <img alt="A screenshot showing CSS Quick Edit" src="screenshots/umpic%20-%20Copy.png" /> </a>
+    </div>
+    
+    
+    <div class = "download/access">
+        <h3>Downloading and Accessing Website</h3>
+        
+        <p>
+            To access the control and data/information displays, you need to download the mobile application for android. For web application, access browser.<em><strong>Needs Internet Access.</strong></em>
+        </p> 
+                <a href="screenshots/umpic.png"> <img alt="A screenshot showing CSS Quick Edit" src="screenshots/umpic.png" /> </a>
+    </div>
+    
+    
+    <div class = "sign in/sign up">
+        <h3>Signing Up and Signing In</h3>
+        
+        <p>Here you will create an account with your specified information. (If account has already been created proceed to <strong>Step 2</strong>). </p>
+            <a href="screenshots/Designpt1-susi.png">   <img alt="A screenshot showing CSS Quick Edit" src="screenshots/Designpt1-susi.png" /></a>
+        
+        <p>1. Input your e-mail and password on the specified lines accordingly. Input your password one more time for any mismatch. 
+        </p>
+            <a href="screenshots/Of8f8.png">    <img alt="A screenshot showing CSS Quick Edit" src="screenshots/Of8f8.png" /></a>
+
+        <p>2. Click <Strong>Sign In</Strong>. Input your e-mail and password. Press <strong>Enter</strong>.
+        </p>
+    </div>
+    
+    
+    <div class = "account"> 
+        <h3>Acccount</h3> 
+        
+        <p>With an accessed <strong> Account</strong> you gain access on to functions of <strong>Register Lawn, Abort, Data Vizualization, Water Lawn, and Settings</strong> accordingly. Clicking <strong>Water Lawn</strong> will automatically water lawn. (NOTE: For Mobile Applications, look under <strong>Control</strong> for <strong>Abort</strong> function).
+        </p>
+        
+            <a href="screenshots/Designpt1%20-%20Copy.png"> <img alt="A screenshot showing CSS Quick Edit" src="screenshots/Designpt1%20-%20Copy.png" /> </a>
+    </div>
+    
+    
+    <div class = "register">
+        <h3>Registering Lawn</h3>
+    
+        <p>Once having acceses to account you click <strong>Register Lawn</strong>. Then from the <strong>Register Lawn</strong> page you can choose from the following to modify for your needs: 
+        </p>
+            <a href="screenshots/reglawn.png"> <img alt="A screenshot showing CSS Quick Edit" src="screenshots/reglawn.png"/> </a>
+
+        <p>1. <strong>Charging and Storage </strong>. (Here you put your location of the charging station and storage of drone).</p> 
+    
+        <p>2. <strong>Dimensions</strong> (Here you modify your lawn dimensions to your preference).</p>
+    </div>
+    
+    
+    <div class = "settings">
+        <h3>Settings</h3>
+        
+        <p> This tab is located on your <strong>Account</strong> page and you will <strong>Add Drone</strong>, change your <strong>Scheduling</strong>, and change your<strong>Username/Password</strong>
+        </p>
+            <a href="screenshots/Designpt1%20-%20Sett.png"> <img alt="A screenshot showing CSS Quick Edit" src="screenshots/Designpt1%20-%20Sett.png"/> </a>
+    </div>
+    
+    
+    <div class = "webapp"></div>
+        <h3>FOR WEB APPLICATION ONLY</h3> 
+            <hr style = "border: 0.5px solid black;"/>
+    
+    
+    <div class = "data"></div>
+        <h3>Data Vizualization</h3>
+    
+        <p>To access and view <strong>Water Amount, Water Saved, and Power Consumption</strong> you go to our Data Vizualization display on your account page. (NOTE: Water Amount displayed in Gal/Min).
+        </p>
+            <a href="screenshots/data.png"> <img alt="A screenshot showing CSS Quick Edit" src="screenshots/data.png"/>
+            </a>
+    
+    <div class = "mobapp"></div>
+        <h3>FOR MOBILE APPLICATION ONLY</h3> 
+            <hr style = "border: 0.5px solid black;"/>
+    
+    
+    <div class = "control"></div>
+        <h3>Control</h3>
+    
+            <a href="screenshots/designpt2.png"> <img alt="A screenshot showing CSS Quick Edit" src="screenshots/designpt2.png"/>
+            </a>
+    
+        <p>For your control functions you are given 3 options when clicked: </p> 
+    
+        <p>1. <strong>Abort</strong>. Press when drone has become disfunctional.</p>
+    
+        <p>2. <strong>Manual</strong> Override. Only use under <em>certain</em> circumstances. </p>
+    
+        <p>3. <strong>Return to base and/or refill</strong>. </p>
+    
+</html>
