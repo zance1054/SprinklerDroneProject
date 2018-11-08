@@ -57,5 +57,5 @@ Our code is separated into folders corresponding directly to the components of t
 
     - alecfielding95@gmail.com
     - keyevan@gmail.com
-    - isaacsilva@student.csulb.edu
+    - isaac.silva@student.csulb.edu
     - kimwilsonngo@gmail.com
